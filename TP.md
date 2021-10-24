@@ -15,6 +15,6 @@ la commande "mv ~ /dev/null" est très puissante car elle moove notre Directory 
 
 
 # Merci
-Voila je me suis contenté d'en faire que 5 meme si je le jure j'aurais voulu en faire plus mais avec la gueule de mon niveau actuel je suis deja semi fière de moi merci du temps accordé 😊
+Voila je me suis contenté d'en faire que 5, meme si je le jure que j'aurais voulu en faire plus. Mais avec la gueule de mon niveau actuel je suis deja semi fière de moi. Merci du temps accordé 😊
 
 
